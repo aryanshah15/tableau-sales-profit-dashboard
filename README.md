@@ -36,7 +36,7 @@ The goal is to showcase how clear data visualization supports data-driven decisi
 | `README.md` | Project documentation and dashboard summary |
 | `dashboard_preview.png` | Screenshot of the Tableau dashboard |
 | `sample_data.xlsx` | Sample data used for the visualization |
-| `dashboard.twbx` | Tableau workbook file (if included) |
+| `dashboard.twbx` | Tableau workbook file |
 
 ---
 
